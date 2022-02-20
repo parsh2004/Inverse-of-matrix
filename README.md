@@ -21,8 +21,8 @@ Print the inverse of the array using np.linalg.inv .
 
 ## PROGRAM:
 ```
-# Name: Akash A
-# Reg.No: 212221230003
+# Name: Parshwanath
+# Reg.No: 21002544
 
 import numpy as np
 z, y= [],[]
